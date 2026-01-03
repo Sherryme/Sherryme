@@ -6,15 +6,15 @@
 
 [![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sherryme)
 [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://sherry-game.itch.io/)
-<!-- [![Blog](https://img.shields.io/badge/-blog.sherry.cf-red?style=for-the-badge&logo=jekyll&logoColor=white)](https://www.github.com/Sherryme) -->
+<!-- [![Blog](https://img.shields.io/badge/-blog-red?style=for-the-badge&logo=jekyll&logoColor=white)](https://www.github.com/Sherryme) -->
 
 ---
 
 ### Technologies
 
 #### Back-End
-[![C#](https://img.shields.io/badge/-C%23%20-green?style=flat-square&logo=dotnet&logoColor=white)](#)
-[![.NET](https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/-C%23%20-239120?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
 
 #### Database
 [![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=MySQL&logoColor=white)](#)
@@ -30,9 +30,8 @@
 ###### Of course, I am still a beginner at most of the above techniques.
 
 ### Software
+[![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)](#)
 [![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)](#)
-[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)](#)
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)](#)
+[![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
 [![Spine](https://img.shields.io/badge/-Spine-000?style=flat-square&logo=spine)](#)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat-square&logo=adobe%20photoshop&logoColor=white)](#)
-[![foobar2000](https://img.shields.io/badge/-foobar2000-000?style=flat-square&logo=foobar2000&logoColor=white)](#)
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)](#)
